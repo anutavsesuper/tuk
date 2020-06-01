@@ -107,7 +107,7 @@ stroke(255, 222, 173);
 strokeWeight(2)
 noFill();
 textSize(150);
-text("23.06 18:00", width/2, height/2)
+text("23/06 18:00", width/2, height/2)
 
 noStroke()
 fill(255, 222, 173)

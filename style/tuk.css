@@ -1,0 +1,13 @@
+@import "reset.css";
+
+body {
+  cursor:url(../img/cursor.png), auto !important;
+  background-color: #FF1E00;
+}
+
+canvas {
+  position: fixed;
+  z-index: -1;
+  top: 0;
+  display: block;
+}

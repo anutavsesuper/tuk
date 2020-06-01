@@ -1,43 +1,43 @@
 let ball1 = {
-  x: 260,
-  y: 150,
+  x: 350,
+  y: 500,
   xspeed: -5,
   yspeed: 5
 }
 
 let ball2 = {
-  x: 300,
-  y: 50,
+  x: 200,
+  y: 360,
   xspeed: 5,
   yspeed: -4
 }
 
 let ball3 = {
-  x: 100,
+  x: 500,
   y: 20,
   xspeed: 7,
   yspeed: -4
 }
 
 let ball4 = {
-  x: 100,
-  y: 200,
+  x: 35,
+  y: 100,
   xspeed: 7,
   yspeed: -5
 }
 
 let ball5 = {
-  x: 300,
-  y: 300,
+  x: 620,
+  y: 180,
   xspeed: 5,
   yspeed: -5
 }
 
 let ball6 = {
-  x: 390,
+  x: 35,
   y: 100,
-  xspeed: 4,
-  yspeed: 4
+  xspeed: 7,
+  yspeed: 7
 }
 
 
